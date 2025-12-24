@@ -53,3 +53,5 @@ go run ./cmd/main.go
 ```bash
 air
 ```
+
+- import postman collection from /doc folder to test
